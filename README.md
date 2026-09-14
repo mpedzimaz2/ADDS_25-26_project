@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32188780/README.md)
-# Detecting anomalous user activity on Wykop.pl
+# Detecting anomalous user activity on social media
 
 A data-analysis project that explores potentially unusual, automated or coordinated user activity on **Wykop.pl**, with a focus on voting behaviour for posts tagged `#polska` in Q1 2026.
 
